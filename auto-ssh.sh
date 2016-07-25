@@ -13,8 +13,8 @@
 #
 #
 #
-# IMPORTANT: Check your local laws. Full auto-ssh may not be legal in California, 
-# New Jersey, or Massachusetts.
+# IMPORTANT: Check your local laws. Full auto-ssh may be illegal in California, 
+# New Jersey, and Massachusetts.
 #
 # Chosen defaults are based on original work by Stribika, available here:
 #
