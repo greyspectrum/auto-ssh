@@ -13,7 +13,6 @@
 #
 #
 #
-#
 # Chosen defaults are based on original work by Stribika, available here:
 #
 # https://stribika.github.io/2015/01/04/secure-secure-shell.html
