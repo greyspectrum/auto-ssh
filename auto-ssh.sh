@@ -10,8 +10,8 @@
 # https://stribika.github.io/2015/01/04/secure-secure-shell.html
 #
 # :author: greyspectrum
-# :date: 25 July 2016
-# :version: 0.9.1
+# :date: 3 July 2017
+# :version: 0.2.0
 ##############################################################################
 
 # Define variables (edit these if you want to test this script without altering your ssh_config)
